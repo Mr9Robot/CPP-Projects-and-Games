@@ -8,12 +8,18 @@ A sophisticated collection of interactive console applications focused on algori
 ## 📁 Featured Projects
 
 ### 1️⃣ Advanced Math Quiz Engine 🧮
+
+![Math Game Screenshot](./Math-Game/Photo%20Math%20Game%20End.PNG)
+
 An automated mental calculation system designed to challenge mathematical speed and logic.
 - **Dynamic Difficulty:** Implements levels from 'Easy' to 'Complex Mixed' challenges.
 - **Algorithmic Operations:** Supports arithmetic operations with randomized data generation.
 - **Real-time Evaluation:** Provides instant feedback and performance grading.
 
 ### 2️⃣ Strategic Rock Paper Scissors 🗿📄✂️
+
+![Rock Paper Scissors Screenshot](./Rock-Paper-Scissors/Photo%20RockPaperScissors%20Game%20End.png)
+
 A tactical implementation of the classic game against a simulated computer opponent.
 - **Game Theory Logic:** Manages round-based states and win/loss conditions.
 - **Visual Interface:** Utilizes system-level feedback and color-coded outcomes.
